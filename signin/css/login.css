@@ -1,0 +1,7 @@
+.small-inner{
+    max-width:600px;
+    /* 화면가운데 들어오도록 */
+    margin:0 auto;
+    padding:120px 0;
+    background-color: rgba(0,255,0,0.1);
+}
